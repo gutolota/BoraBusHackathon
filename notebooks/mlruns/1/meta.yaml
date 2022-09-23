@@ -1,0 +1,4 @@
+artifact_location: file:///Users/gustavotamiosso/dm/treinamentos/BoraBusHackathon/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: borabus_hackathon
