@@ -2,7 +2,7 @@ artifact_uri: file:///Users/gustavotamiosso/dm/treinamentos/BoraBusHackathon/not
 end_time: 1664113490563
 entry_point_name: ''
 experiment_id: '1'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: a1a313100b8243dab576a3f4231b634c
 run_uuid: a1a313100b8243dab576a3f4231b634c
