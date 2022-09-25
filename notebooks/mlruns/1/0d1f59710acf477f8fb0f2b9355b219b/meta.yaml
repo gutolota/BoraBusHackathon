@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gustavotamiosso/dm/treinamentos/BoraBusHackathon/notebooks/mlruns/1/0d1f59710acf477f8fb0f2b9355b219b/artifacts
+end_time: 1664112160585
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: 0d1f59710acf477f8fb0f2b9355b219b
+run_uuid: 0d1f59710acf477f8fb0f2b9355b219b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664112156279
+status: 3
+tags: []
+user_id: gustavotamiosso
